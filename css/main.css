@@ -1,0 +1,14 @@
+.amazing-team{
+    text-align: center;
+    background-color: rgb(179, 200, 200);
+    width: 95%;
+    margin: 0 auto;
+    padding: 20px;
+}
+.team{
+    float: left;
+    width: 33.33%;
+}
+.clearfix{
+    clear: both;
+}
